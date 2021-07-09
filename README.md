@@ -1,4 +1,4 @@
-# Pizza Hut
+# Pizza Hut World Wide
 
 ## User Story
 To allow users to be able to make pizzas, share them and then engage in a conversation with others around the world about that pizza.

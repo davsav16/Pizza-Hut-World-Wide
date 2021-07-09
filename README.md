@@ -18,6 +18,9 @@ To allow users to be able to make pizzas, share them and then engage in a conver
 - HTML
 - CSS
 
+## How To:
+If you are simply looking to participate in the app, click the link below. Other wise, if you wish to clone the repo, please install Express and Mongoose if you are using it on your local device before using the app.
+
 ## Deployed at
 https://immense-savannah-08698.herokuapp.com/
 
